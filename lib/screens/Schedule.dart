@@ -14,6 +14,12 @@ class Schedule extends StatelessWidget {
         date: 'Sep 19,Sat 7:30 PM',
         team1: 'images/MI.png',
         team2: 'images/csk.png',
+        venue: 'Sheikh zayed stadium abudabi'),
+    Schedulem(
+        matchno: '1st Match',
+        date: 'Sep 19,Sat 7:30 PM',
+        team1: 'images/MI.png',
+        team2: 'images/csk.png',
         venue: 'Sheikh zayed stadium abudabi')
   ];
   @override
